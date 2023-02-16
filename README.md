@@ -9,7 +9,8 @@
   - 💬 Ask me about RO:BIT sports game team, KW UNV.
   
   - 📫 How to reach me: menggu1234@naver.com / instagram @mzzxxn_
-
+  
+  ![0_s2ivt9cecdqsXvts](https://user-images.githubusercontent.com/66550892/219484695-75e8da62-8944-4688-9fce-3831aea24822.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlee111&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlee111&layout=compact)](https://github.com/mjlee111/github-readme-stats)
