@@ -6,8 +6,6 @@
   
   - 🤔 I’m looking for help with UDP communication
   
-  - 💬 Ask me about RO:BIT sports game team, KW UNV.
-  
   - 📫 How to reach me: menggu1234@naver.com / Instagram @mzzxxn_
   
   ![0_s2ivt9cecdqsXvts](https://user-images.githubusercontent.com/66550892/219484695-75e8da62-8944-4688-9fce-3831aea24822.gif)
