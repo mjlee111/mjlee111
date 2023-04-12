@@ -4,7 +4,7 @@
   
   - 🌱 I’m currently learning ROS master node, wireless communication and deeplearning
   
-  - 🤔 I’m looking for help with UDP communication
+  - 🤔 I’m looking for help with UDP communication / 3D SLAM
   
   - 📫 How to reach me: menggu1234@naver.com / Instagram @mzzxxn_
   
