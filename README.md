@@ -1,5 +1,5 @@
 <div align="center">
-   #Myeung Jin Lee 11.27.03
+   Myeung Jin Lee 11.27.03
    Kwangwoon UNV DIVISION OF ROBOTICS & RO:BIT 17th
 </div>
 <div>
