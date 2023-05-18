@@ -1,5 +1,8 @@
 <!-- <div align="center">
    -->
+   Myeung Jin Lee 11.27.03
+   Kwangwoon UNV DIVISION OF ROBOTICS & RO:BIT 17th
+   
   - 🔭 I’m currently working on RoboCup Rescue 2023
   
   - 🌱 I’m currently learning ROS master node, wireless communication and deeplearning
