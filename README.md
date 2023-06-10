@@ -11,7 +11,7 @@
    
   - 🔭 I’m currently working on RoboCup Rescue 2023
   
-  - 🌱 I’m currently learning ROS master node, wireless communication and deeplearning
+  - 🌱 I’m currently learning ROS, deeplearning models, multi robot control.
   
   - 🤔 I’m looking for help with UDP communication / 3D SLAM / Autonomous Driving
   
