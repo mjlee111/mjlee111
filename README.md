@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Myeung Jin Lee)
+
 <div align="center">
    Myeung Jin Lee 11.27.03
    Kwangwoon UNV DIVISION OF ROBOTICS & RO:BIT 17th
