@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=MyeungJinLee)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=MyeungJinLee&fontColor=FFFFFF)
 
 <div align="center">
    Myeung Jin Lee 11.27.03
