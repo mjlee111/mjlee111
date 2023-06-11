@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=MyeungJinLee&fontColor=FFFFFF)
 
 # Hi, I am Myeung Jin Lee 
-### - Kwangwoon UNV DIVISION OF ROBOTICS 
+### - Kwangwoon UNV DIVISION OF ROBOTICS Sophomore 
 ### - RO:BIT 17th Intelligence Robot Team
    
   
