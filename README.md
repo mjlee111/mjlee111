@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=MyeungJinLee&fontColor=FFFFFF)
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjlee111%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+
 # Hi, I am Myeung Jin Lee 
 ### - Kwangwoon UNV DIVISION OF ROBOTICS 
 ### - RO:BIT 17th Intelligence Robot Team
@@ -19,7 +19,7 @@
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjlee111&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjlee111&layout=compact)](https://github.com/mjlee111/github-readme-stats)
-  
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjlee111%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)] 
 
   
 </div>
