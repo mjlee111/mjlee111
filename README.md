@@ -16,6 +16,8 @@
   - 🤔 I’m looking for help with UDP communication / 3D SLAM / Autonomous Driving
   
   - 📫 How to reach me: menggu1234@naver.com
+
+  - 🇰🇷 Location : Seoul, Korea
 </div>
 <div align="center">
    
