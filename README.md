@@ -4,7 +4,7 @@
 
 ### - Kwangwoon UNV DIVISION OF ROBOTICS Sophomore
 
-### - RO:BIT 17th Intelligence Robot Team <a href="[https://github.com/INYUP-BAEK](https://github.com/RO-BIT-Intelligence-Robot-Team?view_as=public)"><img src="https://img.shields.io/badge/RO:BIT-burgundy?style=flat&logo=windowsterminal&logoColor=white"/></a>
+### - RO:BIT 17th Intelligence Robot Team <a href="[https://github.com/INYUP-BAEK](https://github.com/RO-BIT-Intelligence-Robot-Team?view_as=public)"><img src="https://img.shields.io/badge/RO:BIT-red?style=flat&logo=windowsterminal&logoColor=white"/></a>
 
 <div>
    
