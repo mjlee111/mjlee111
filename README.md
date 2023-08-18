@@ -8,8 +8,6 @@
 
 
 <div>
-   
-  - 🔭 I’m currently working on RoboCup Rescue 2023
   
   - 🌱 I’m currently learning ROS, deeplearning models, multi robot control.
   
