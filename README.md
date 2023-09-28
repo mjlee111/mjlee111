@@ -11,7 +11,7 @@
   
   - 🌱 I’m currently learning ROS, deeplearning models, multi robot control, SLAM
   
-  - 🤔 I’m looking for help with UDP communication / 3D SLAM / Autonomous Driving
+  - 🤔 I’m looking for help with wireless communication / 3D SLAM / Autonomous Driving
   
   - 📫 How to reach me: menggu1234@naver.com
 
