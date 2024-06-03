@@ -2,7 +2,7 @@
 
 # Hi, I am Myeung Jin Lee
 
-### - Kwangwoon UNV DIVISION OF ROBOTICS Sophomore
+### - Kwangwoon UNV DIVISION OF ROBOTICS Junior
 
 ### - RO:BIT 17th Leader, Intelligence Robot Team <a href="https://github.com/Team-ROBIT"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a>
 
