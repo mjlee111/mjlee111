@@ -9,7 +9,7 @@
 
 <div>
   
-  - 🌱 I’m currently learning ROS, deeplearning models, multi robot control, SLAM
+  - 🌱 I’m currently learning ROS, deeplearning models, multi robot control, SLAM, MCU device develop
   
   - 🤔 I’m looking for help with wireless communication / 3D SLAM / Autonomous Driving
   
