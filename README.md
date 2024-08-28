@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=mjlee111&fontColor=FFFFFF)
 
-# Hi, I am Myeung Jin Lee
+# Hi, I am Myeong Jin Lee
 
 ### - Kwangwoon UNV DIVISION OF ROBOTICS Junior
 
