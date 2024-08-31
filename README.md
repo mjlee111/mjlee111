@@ -6,7 +6,7 @@
 
 ### - RO:BIT 17th Leader, Intelligence Robot Team <a href="https://github.com/Team-ROBIT"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mjlee111/mjlee111/master/doc/robit.png" alt="robit" />
+  <img src="https://raw.githubusercontent.com/mjlee111/mjlee111/master/docs/robit.png" alt="robit" />
 </div>
 
 <div>
