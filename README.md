@@ -1,16 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=mjlee111&fontColor=FFFFFF)
 
-# Hi, I am Myeong Jin Lee
+# Hi, I am `Myeong Jin Lee`
 
 ### - Kwangwoon UNV DIVISION OF ROBOTICS Junior
 
-### - RO:BIT 17th Leader, Intelligence Robot Team <a href="https://github.com/Team-ROBIT"><img src="https://img.shields.io/badge/Team RO:BIT-white?style=flat&logo=windowsterminal&logoColor=red"/></a>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mjlee111/mjlee111/master/docs/robit.png" alt="robit" />
-</div>
+### - `RO:BIT 17th Leader`, Intelligence Robot Team
+  <a href="https://github.com/Team-ROBIT"><img src="https://raw.githubusercontent.com/mjlee111/mjlee111/master/docs/robit.png" alt="robit"/> </a>
+
 
 <div>
-  
   - 🌱 I’m currently learning ROS, deeplearning models, multi robot control, SLAM, MCU device develop
   
   - 🤔 I’m looking for help with wireless communication / 3D SLAM / Autonomous Driving
