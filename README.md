@@ -9,8 +9,11 @@
 --- 
 
 ### 📖 **Education & Work Experience**
-> - **B.S in Kwangwoon UNV DIVISION OF ROBOTICS (2022.03 ~)**
-> - **`ROːBIT 17th Leader`, Intelligence Robot Team  <a href="https://github.com/Team-ROBIT"><img src="https://raw.githubusercontent.com/mjlee111/mjlee111/master/docs/robit.png" alt="robit" height=15/> </a> (2022.07 ~)**
+> - **Kwangwoon Univ** [KW Univ](https://www.kw.ac.kr/en/) <br>
+    - *B.S in Division of Robotics (2022.03 ~ )*
+> - **ROːBIT, Undergraduate Student Lab** [Team ROːBIT](https://github.com/Team-ROBIT) <br>
+    - *17th Member. Intelligence Robot Team* (2022.07 ~ 2023.12)<br>
+    - *Lab Leader* (2024.01 ~ )
 ---
 
 ### 📱 **Contact, Location etc**
@@ -21,6 +24,10 @@
 
 ### 📚 **Tech Stack**
 <div align=center>
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjlee111%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  <br>
+  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -53,7 +60,6 @@
   ![](https://raw.githubusercontent.com/mjlee111/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   ![](https://raw.githubusercontent.com/mjlee111/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   <br>
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjlee111%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 </div>
 
 ---
