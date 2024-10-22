@@ -20,11 +20,13 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/>
 <img src="https://img.shields.io/badge/CMake-DB6A26?style=flat&logo=CMake&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-EE4C2C?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-302683?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/shell-241F31?style=flat&logo=GNOME Terminal&logoColor=white"/>
  <img src="https://img.shields.io/badge/Altium-A5915F?&style=flat&logo=Altium Designer&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&style=flat&logo=MySQL&logoColor=white"/>
