@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=MyeongJin%20Lee&fontColor=ffffff&fontSize=90&fontAlign=62&fontAlignY=32&desc=mjlee111&descSize=25&descAlign=85&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=MyeongJin%20Lee&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=40&desc=mjlee111&descSize=25&descAlign=50&descAlignY=70
+)
 ### Kwangwoon UNV DIVISION OF ROBOTICS Junior
 ### `ROːBIT 17th Leader`, Intelligence Robot Team
   <a href="https://github.com/Team-ROBIT"><img src="https://raw.githubusercontent.com/mjlee111/mjlee111/master/docs/robit.png" alt="robit" width=200/> </a>
