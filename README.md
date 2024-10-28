@@ -13,7 +13,7 @@
     - *B.S in Division of Robotics (2022.03 ~ )*
 > - **ROːBIT, Undergraduate Student Lab** [Team ROːBIT](https://github.com/Team-ROBIT) <br>
     - *17th Member. Intelligence Robot Team* (2022.07 ~ 2023.12)<br>
-    - *Lab Leader* [Namecard](https://github.com/mjlee111/mjlee111/blob/main/docs/namecard.png) (2024.01 ~ )
+    - *Lab Leader* (2024.01 ~ )
 ---
 
 ### 📱 **Contact, Location etc**
