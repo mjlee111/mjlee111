@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/conda-44A833?style=flat-square&logo=Anaconda&logoColor=black"> 
 </div>
 
 ---
