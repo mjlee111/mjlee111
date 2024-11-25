@@ -13,7 +13,7 @@
     - *B.S in Division of Robotics (2022.03 ~ )*
 > - **ROːBIT, Undergraduate Student Lab** [@Team ROːBIT](https://github.com/Team-ROBIT) <br>
     - *17th Member. Intelligence Robot Team* (2022.07 ~ 2023.12)<br>
-    - *Lab Leader* (2024.01 ~ )
+    - *Lab Leader* (2024.01 ~ 2024.12)
 ---
 
 ### 📱 **Contact, Location etc**
