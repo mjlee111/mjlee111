@@ -1,9 +1,9 @@
 ## 👋 Hi. I'm Myeong Jin Lee.
 ### 🔎 **Areas of interest**
-> - **Computer Vision**
+> - **Imitation, Reinforcement Learning**
 > - **Mobile Robot**
 > - **Quadrupedal Robot**
-> - **Autonomous Driving System**
+> - **Autonomous Manipulation Task**
 > - **Perception - Sensor Fusion / SLAM / Object Detection**
 > - **MCU Development**
 --- 
