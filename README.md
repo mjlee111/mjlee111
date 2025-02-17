@@ -13,7 +13,7 @@
 > - **Kwangwoon Univ** [@KW Univ](https://www.kw.ac.kr/en/) <br>
     - *B.S in Division of Robotics (2022.03 ~ )*
 > - **ROːBIT, Undergraduate Student Lab** [@Team ROːBIT](https://github.com/Team-ROBIT) <br>
-    - *17th Member. Intelligence Robot Team* (2022.07 ~ 2023.12)<br>
+    - *17th Member. Intelligence Robot Team* (2022.07 ~ )<br>
     - *Lab Leader* (2024.01 ~ 2024.12)
 
 **Work Experience**
