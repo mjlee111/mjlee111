@@ -4,7 +4,6 @@
 > - **Mobile Robot**
 > - **Quadrupedal Robot**
 > - **Autonomous Manipulation Task**
-> - **Perception - Sensor Fusion / SLAM / Object Detection**
 > - **MCU Development**
 --- 
 
