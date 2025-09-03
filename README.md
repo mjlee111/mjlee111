@@ -17,7 +17,8 @@
 
 **Work Experience**
 > - **ROBROS** [@ROBROS](https://robros.co.kr) <br>
-    - *Internship on Humanoid Team* (2024.12 ~ )
+    - *Internship on Humanoid Team* (2024.12 ~ 2025.08)
+    - *Associate Engineer* (2025.09 ~ )
 ---
 
 ### 📱 **Contact, Location etc**
